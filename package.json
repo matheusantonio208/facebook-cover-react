@@ -1,0 +1,9 @@
+{
+  "name": "facebook-cover",
+  "version": "1.0.0",
+  "description": "facebook project react",
+  "main": "index.js",
+  "repository": "https://github.com/matheusantonio208/facebook-cover-react.git",
+  "author": "matheus.antonio208",
+  "license": "MIT"
+}
