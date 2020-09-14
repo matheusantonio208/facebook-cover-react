@@ -1,1 +1,8 @@
 https://github.com/rocketseat-education/bootcamp-gostack-desafio-04#rocket-sobre-o-desafio
+
+Components: 
+  ☐ App        : 
+  ✔ Header     : Responsável por exibir a logo e o link para acessar o perfil; @done (13/09/2020 16:26:47)
+  ☐ PostList   : Responsável por armazenar os dados da listagem de post, esses dados devem ficar dentro do state do componente e não em uma variável comum
+  ☐ Post       : Responsável por exibir os dados do post, esses dados devem vir através de uma propriedade recebida do componente PostList
+  ☐ Comment    : sável por exibir um comentário. Os dados do comentário virão por uma propriedade do componente. Dentro do componente Post você terá um novo .map para listar os comentários do pos
